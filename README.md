@@ -8,6 +8,10 @@ Pakitos Gambling is a **simulated online casino** developed as a final project f
 
 It is a full-stack web application with a React frontend, an Express backend, PostgreSQL as the database, and Docker-based environments for both development and deployment.
 
+## 👤 Alexandro Dezso's contribution (@Roria1324)
+
+Pakitos Gambling was developed as a team project. [Alexandro Dezso](https://github.com/Roria1324) contributed to the **frontend**, focusing on the design and implementation of the website and game interfaces using **React, JavaScript and Tailwind CSS**, with **Vite** as the frontend development tool.
+
 ## 📋 Overview
 This repository contains the full application stack and the supporting infrastructure needed to run it locally. The project is organized around:
 - **frontend** built with React and Vite
